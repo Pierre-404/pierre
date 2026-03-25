@@ -1,8 +1,12 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Petit récap
 
-# L'Échappée Belle
+Voilà voilà !
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Des fois on cherche, des fois on ne connaît pas, voici un recueil de choses pas forcément mises en avant mais qui m'ont inspirées au long de ma vie !
+
+Des choses qu'on peut juger alternatives, sur l'écologie, sur l'ouverture aux autres, contre le fascisme et pour le vivre ensemble ! 
