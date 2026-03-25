@@ -61,6 +61,8 @@ Too big to fail
 
 99 francs
 
+Very Bad Cops
+
 La Belle verte
 
 Demain
@@ -80,6 +82,10 @@ Le roi et l'oiseau
 Princesse Mononoké
 
 1984
+
+Internet ou la révolution du partage / La bataille du libre
+
+The Internet Own Boy
 
 #### Séries
 
