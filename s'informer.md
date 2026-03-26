@@ -1,5 +1,5 @@
 ---
-title: "Médias"
+title: "S'informer"
 order: 5
 in_menu: true
 ---
