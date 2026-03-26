@@ -1,5 +1,5 @@
 ---
-title: "Logiciels libre"
+title: "Logiciels libres"
 order: 1
 in_menu: true
 ---
