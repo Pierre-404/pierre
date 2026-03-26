@@ -9,17 +9,23 @@ Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permi
 
 - Framasoft : https://framasoft.org/fr/
 
-`L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter !`
+> L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter !
 
-Infomaniak : https://www.infomaniak.com/fr
+- Infomaniak : https://www.infomaniak.com/fr
 
-> Il pourra remplacer toute votre suite google avec Agenda, contacts, mails, drive, messagerie, viso, etc. Hébergé en suisse et qui fait attention à son impact environnemental !
+> Ce n'est pas libre, mais éthique et gratuit ! Il pourra remplacer toute votre suite google avec Agenda, contacts, mails, drive, messagerie, viso, etc. Hébergé en suisse et qui fait attention à son impact environnemental !
 
 Zaclys : https://www.zaclys.com/
 
+> Comme infomaniak mais en libre et avec une participation financière très légère ! Avec le logiciel Nextcloud notamment qui peut gérer bien d'autres services en ligne !
+
 Les Chatons : https://www.chatons.org/
 
+> Collectif d'hébergeurs libres, français et éthiques, on y trouve tout un tas d'alternatives de type, mail, drive, visio, facturation, etc... A aller voir !
+
 Seb Sauvage : https://sebsauvage.net/wiki/doku.php?id=dnsfilter
+
+> Site web très complet et bien expliqué sur différentes thématique, ici le lien renvoit vers le blocage de pub sur son téléphone
 
 pcet : https://wiki.pcet.link/accueil
 
