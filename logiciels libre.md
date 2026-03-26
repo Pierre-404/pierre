@@ -3,9 +3,7 @@ title: "Logiciels libre"
 order: 1
 in_menu: true
 ---
-## Les logiciels Libre
-
-# Astuces
+## Astuces
 
 Framasoft : https://framasoft.org/fr/
 
