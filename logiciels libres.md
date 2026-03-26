@@ -7,7 +7,7 @@ in_menu: true
 
 Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :
 
-- Framasoft : https://framasoft.org/fr/
+- Framasoft : [https://framasoft.org/fr/](https://framasoft.org/fr/)
 
 > L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter !
 
