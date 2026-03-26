@@ -1,5 +1,5 @@
 ---
-title: "Initiatives à connaitre"
+title: "S'inspirer"
 order: 1
 in_menu: true
 ---
