@@ -5,9 +5,15 @@ in_menu: true
 ---
 ## Astuces
 
-Framasoft : https://framasoft.org/fr/
+Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :
+
+- Framasoft : https://framasoft.org/fr/
+
+`L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter !`
 
 Infomaniak : https://www.infomaniak.com/fr
+
+> Il pourra remplacer toute votre suite google avec Agenda, contacts, mails, drive, messagerie, viso, etc. Hébergé en suisse et qui fait attention à son impact environnemental !
 
 Zaclys : https://www.zaclys.com/
 
