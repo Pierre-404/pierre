@@ -23,13 +23,13 @@ Les Chatons : https://www.chatons.org/
 
 > Collectif d'hébergeurs libres, français et éthiques, on y trouve tout un tas d'alternatives de type, mail, drive, visio, facturation, etc... A aller voir !
 
-Seb Sauvage : https://sebsauvage.net/wiki/doku.php?id=dnsfilter
+- ***Seb Sauvage*** : https://sebsauvage.net/wiki/doku.php?id=dnsfilter
 
 > Site web très complet et bien expliqué sur différentes thématique, ici le lien renvoit vers le blocage de pub sur son téléphone
 
 pcet : https://wiki.pcet.link/accueil
 
-#### Réseaux
+## Réseaux
 
 Mastodon : https://joinmastodon.org/fr
 
@@ -37,7 +37,7 @@ Peertube : https://peertube.fr/
 
 Mobilizon : https://mobilizon.fr/
 
-#### Messageries
+## Messageries
 
 Signal
 
@@ -47,7 +47,7 @@ Mattermost
 
 Wire
 
-#### Applis androïd
+## Applis androïd
 
 Firefox
 
@@ -72,7 +72,7 @@ AntennaPod
 Stealth
 
 
-#### Logiciels
+## Logiciels
 
 Firefox
 
@@ -94,7 +94,9 @@ Draw.io
 
 Joplin
 
-#### Extensions de Navigateur
+Scribouilli
+
+## Extensions de Navigateur
 
 Ublock Origins
 
@@ -106,7 +108,9 @@ Feedbro
 
 
 
-#### Systèmes d'exploitation Linux (GNU/Linux)
+## Systèmes d'exploitation Linux 
+
+GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions" peuvent remplacer Windows ou MacOS (qui en est un dérivé). L'installation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système !
 
 Emmabuntus : https://emmabuntus.org/
 
@@ -116,8 +120,13 @@ Ubuntun Cinnamon : https://ubuntucinnamon.org/download/
 
 Linux Mint : https://www.linuxmint.com/
 
+Distrowatch
 
-#### Système d'exploitation sur Android
+Distrosea
+
+## Systèmes d'exploitation sur Android
+
+Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'android, pour beaucoup ils sont basés dessus et toutes les applications du playstore fonctionnent sans problème !
 
 /e/OS : https://doc.e.foundation/
 
