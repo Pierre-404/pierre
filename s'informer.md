@@ -1,6 +1,6 @@
 ---
 title: "S'informer"
-order: 5
+order: 3
 in_menu: true
 ---
 Petite liste de médias indépendant qui traitent de sujets sociétaux & environnementaux !

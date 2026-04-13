@@ -1,6 +1,6 @@
 ---
 title: "Logiciels libres"
-order: 1
+order: 5
 in_menu: true
 ---
 ## Astuces
