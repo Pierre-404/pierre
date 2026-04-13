@@ -1,6 +1,6 @@
 ---
 title: "Lectures"
-order: 6
+order: 7
 in_menu: true
 ---
 ## Lectures

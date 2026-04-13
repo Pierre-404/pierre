@@ -1,6 +1,6 @@
 ---
 title: "S'engager"
-order: 10
+order: 5
 in_menu: true
 ---
 ## Les Assos

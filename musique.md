@@ -1,6 +1,6 @@
 ---
 title: "Musique"
-order: 8
+order: 9
 in_menu: true
 ---
 ## Musique
