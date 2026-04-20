@@ -7,15 +7,14 @@ Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle
 Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis, simples à pendre en main et par là où on peut commencer facilement :)
 
 ## Menu
-
-### Astuce
-### Réseaux sociaux
-#### Messageries instantanées
-#### Applications pour Android
-##### Logiciels pour ordinateur
-##### Extensions pour Firefox
-###### Système d'exploitation pour ordinateur
-###### Système d'exploitation pour téléphone
+-**Astuce**
+-**Réseaux sociaux**
+-**Messageries instantanées**
+-**Applications pour Android**
+-**Logiciels pour ordinateur**
+-**Extensions pour Firefox**
+-**Système d'exploitation pour ordinateur**
+-**Système d'exploitation pour téléphone**
 
 ## Astuces
 
