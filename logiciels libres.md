@@ -6,6 +6,17 @@ in_menu: true
 Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
 Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis, simples à pendre en main et par là où on peut commencer facilement :)
 
+## Menu
+
+### Astuce
+### Réseaux sociaux
+#### Messageries instantanées
+#### Applications pour Android
+##### Logiciels pour ordinateur
+##### Extensions pour Firefox
+###### Système d'exploitation pour ordinateur
+###### Système d'exploitation pour téléphone
+
 ## Astuces
 
 Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :
@@ -40,27 +51,36 @@ Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permi
 
 ## Réseaux sociaux
 
-Ces propositions sont des réseaux "décentralisés" c'est à dire qu'ils n'appartiennent pas à une grosse entreprise dont la politique peut être... contestable, mais à beaucoup de petites structures, souvent associatives, et ça fonctionne très bien !! :D L'ambiance y est donc plutôt sympa ! C'est vrai qu'on y retrouve moins de monde, mais ce ne sera plus le cas quand on arrêtera de dire "je n'y vais pas parce qu'il n'y a personne", déjà j'y suis ! Et moi ça me ferait plaisir de vous y voir d'ailleurs, allez go ! :D
+Ces propositions sont des réseaux "décentralisés" c'est à dire qu'ils n'appartiennent pas à une grosse entreprise dont la politique peut être... contestable, mais à beaucoup de petites structures, souvent associatives, et ça fonctionne très bien !! :D
+Pas de publicité, pas d’algorithme, à nous de créer notre monde ! :) L'ambiance y est donc plutôt sympa ! C'est vrai qu'on y retrouve moins de monde, mais ce ne sera plus le cas quand on arrêtera de dire "je n'y vais pas parce qu'il n'y a personne", déjà j'y suis moi ! :P Et ça me ferait plaisir de vous y voir d'ailleurs, allez go ! :D
 
-- ***Mastodon*** : [https://joinmastodon.org/fr](https://joinmastodon.org/fr)
 
-> Une alternative aux réseaux sociaux classiques tels que Twitter (X), Facebook, 
+- ***Mastodon*** : [https://mastodon.social](https://mastodon.social)
+
+> Pour suivre vos amis, les actus, des assos, des artistes, etc., c'est le plus utilisé ! Sur le fonctionnement, c'est plus ou moins comme X (Twitter) ou Bluesky avec une limitation à 500 caractères. Au pire créez vous un compte directement [depuis l'App](https://joinmastodon.org/apps) et essayez d'y passer dessus une fois par semaine au début ! Mon nom d'utilisateur pour m'y retrouver, ainsi que ce que je partages : **@Pierre_lmd@hostux.social**
 
 - ***Peertube*** : [https://peertube.fr/](https://peertube.fr/)
 
+> Si vous souhaitez héberger des vidéos sur un autre service que Youtube, avec également une fonctionnalité livestream ! Le contenu est directement diffusé sur Mastodon.
+
 - ***Mobilizon*** : [https://mobilizon.fr/](https://mobilizon.fr/)
 
-- ***Pour aller plus loin*** : 
+> C'est parfait pour des groupe de discussions thématiques ou organiser des événements, c'est idéal pour une asso qui veut diffuser des infos et avoir un mini-forum public, ça ressemble fortement à un mix entre les événements et groupes Facebook. Hyper bien pensé ! :) Le contenu créé est directement diffusé sur Mastodon ! :)
 
-## Messageries
+## Messageries instantanées
 
 - ***Signal*** : [https://signal.org/](https://signal.org/)
 
+> C'est la base pour les messages perso ou des groupes type amis ou famille, je n'utilise que ça ! Sécurisé et pensée pour le respect de la vie privée, c'est le fondateur de What'sApp qui l'a créée quand What'sApp s'est fait racheté par Facebook et à commencé à exploiter les données personnelles de nos messages. ça fonctionne exactement de la même manière, il peut y avoir des réglages à faire lors de l'installation pour bien recevoir les notification (autorisation en arrière-plan, utilisation batterie, utilisation des données mobiles)
+
 - ***Element*** : [https://element.io/fr](https://element.io/fr)
+
+> Sécurisé et pensé pour le respect de la vie privée, fonctionnement similaire à Discord pour organiser des discussions de groupes, visios (asso par exemple) selon plusieurs canaux, très utile ! Disponible sur le web, en logiciel ou application mobile.
 
 - ***Mattermost*** : [https://mattermost.com/](https://mattermost.com/)
 
-- ***Wire*** : [https://wire.com/fr/](https://wire.com/fr/)
+> Similaire à Element en plus simple, vous pouvez ouvrir un compte ici : https://framateam.org/login avant de télécharger l'application.
+
 
 ## Applis android
 
