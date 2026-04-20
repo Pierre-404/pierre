@@ -3,100 +3,118 @@ title: "Logiciels libres"
 order: 4
 in_menu: true
 ---
+Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
+Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis, simples à pendre en main et par là où on peut commencer facilement :)
+
 ## Astuces
 
 Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :
 
-- Framasoft : [https://framasoft.org/fr/](https://framasoft.org/fr/)
+- ***Framasoft*** : [https://framasoft.org](https://framasoft.org/fr/)
 
-> L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter !
+> L'incontournable sur le sujet, qui propose des services libres en lignes, une newsletter, des conférences, etc. A arpenter sans compter ! Vous pourrez trouver tout un référencement de logiciels libres sur leur annuaire : [https://framalibre.org](https://framalibre.org/)
 
-- Infomaniak : https://www.infomaniak.com/fr
+- ***Le Wiki d'Herminien*** : [https://wiki.pcet.link/accueil](https://wiki.pcet.link/accueil)
 
-> Ce n'est pas libre, mais éthique et gratuit ! Il pourra remplacer toute votre suite google avec Agenda, contacts, mails, drive, messagerie, viso, etc. Hébergé en suisse et qui fait attention à son impact environnemental !
+> C'est l'un des sites qui m'a beaucoup aidé au démarrage ! Très complet, très pédagogique avec de la vulgarisation, des "tutos", j'adore !
 
-Zaclys : https://www.zaclys.com/
+- ***Infomaniak*** : [https://www.infomaniak.com](https://www.infomaniak.com/fr)
 
-> Comme infomaniak mais en libre et avec une participation financière très légère ! Avec le logiciel Nextcloud notamment qui peut gérer bien d'autres services en ligne !
+> Ce n'est pas libre, mais éthique et gratuit ! Il pourra remplacer toute votre suite google avec Agenda, contacts, mails, drive, messagerie, viso, etc. Hébergé en suisse et qui fait attention à son impact environnemental ! Le transfert depuis Gmail et autres se fait très facilement en 30 minutes !
 
-Les Chatons : https://www.chatons.org/
+- ***Zaclys*** : [https://www.zaclys.com/](https://www.zaclys.com/)
 
-> Collectif d'hébergeurs libres, français et éthiques, on y trouve tout un tas d'alternatives de type, mail, drive, visio, facturation, etc... A aller voir !
+> Comme infomaniak mais en libre et avec une participation financière très légère ! Basé sur le logiciel [Nextcloud](https://nextcloud.com/fr/) notamment qui peut gérer bien d'autres services en ligne (c'est assez fou tout ce qui est proposé !) !
 
-- ***Seb Sauvage*** : https://sebsauvage.net/wiki/doku.php?id=dnsfilter
+- ***Les Chatons*** : [https://www.chatons.org/](https://www.chatons.org)
 
-> Site web très complet et bien expliqué sur différentes thématique, ici le lien renvoit vers le blocage de pub sur son téléphone
+> Collectif d'hébergeurs libres, français et éthiques, on y trouve tout un tas d'alternatives de services en ligne type, mail, drive, visio, facturation, édition de PDF, etc... A aller voir, [catalogue ici](https://www.chatons.org/search/by-service)
 
-pcet : https://wiki.pcet.link/accueil
+- ***Seb Sauvage*** : [https://sebsauvage.net/wiki/](https://sebsauvage.net/wiki/doku.php?id=dnsfilter)
 
-## Réseaux
+> Site web très complet et bien expliqué sur différentes thématique, ici le lien renvoi vers le blocage de pub sur son téléphone
 
-Mastodon : https://joinmastodon.org/fr
+- ***Alternatives numériques*** : [https://alternatives-numeriques.fr/](https://alternatives-numeriques.fr/)
 
-Peertube : https://peertube.fr/
+> Quelques articles intéressant sur des alternatives et un référencement des annuaires de logiciels libres [ici](https://alternatives-numeriques.fr/catalogues/)
 
-Mobilizon : https://mobilizon.fr/
+## Réseaux sociaux
+
+Ces propositions sont des réseaux "décentralisés" c'est à dire qu'ils n'appartiennent pas à une grosse entreprise dont la politique peut être... contestable, mais à beaucoup de petites structures, souvent associatives, et ça fonctionne très bien !! :D L'ambiance y est donc plutôt sympa ! C'est vrai qu'on y retrouve moins de monde, mais ce ne sera plus le cas quand on arrêtera de dire "je n'y vais pas parce qu'il n'y a personne", déjà j'y suis ! Et moi ça me ferait plaisir de vous y voir d'ailleurs, allez go ! :D
+
+- ***Mastodon*** : [https://joinmastodon.org/fr](https://joinmastodon.org/fr)
+
+> Une alternative aux réseaux sociaux classiques tels que Twitter (X), Facebook, 
+
+- ***Peertube*** : [https://peertube.fr/](https://peertube.fr/)
+
+- ***Mobilizon*** : [https://mobilizon.fr/](https://mobilizon.fr/)
+
+- ***Pour aller plus loin*** : 
 
 ## Messageries
 
-Signal
+- ***Signal*** : [https://signal.org/](https://signal.org/)
 
-Element
+- ***Element*** : [https://element.io/fr](https://element.io/fr)
 
-Mattermost
+- ***Mattermost*** : [https://mattermost.com/](https://mattermost.com/)
 
-Wire
+- ***Wire*** : [https://wire.com/fr/](https://wire.com/fr/)
 
-## Applis androïd
+## Applis android
 
-Firefox
+- ***Firefox*** : [https://www.firefox.com/fr/mobile/](https://www.firefox.com/fr/mobile/)
 
-F-droïd
+- ***F-droid*** : [https://f-droid.org/fr/](https://f-droid.org/fr/)
 
-NewPipe
+- ***NewPipe*** : [https://newpipe.net/](https://newpipe.net/)
 
-Fossify
+- ***Fossify*** : [https://www.fossify.org/](https://www.fossify.org/)
 
-MJ PDF
+- ***MJ PDF***
 
-QUIK SMS
+- ***QUIK SMS***
 
-K-9 Mail
+- ***K-9 Mail*** : [https://k9mail.app/](https://k9mail.app/)
 
-FaireEmail
+- ***FaireEmail*** : [https://email.faircode.eu/](https://email.faircode.eu/)
 
 OpenBoard
 
-AntennaPod
+- ***AntennaPod*** : [https://antennapod.org/fr/](https://antennapod.org/fr/)
 
-Stealth
+- ***Stealth*** : [https://f-droid.org/packages/com.cosmos.unreddit/](https://f-droid.org/packages/com.cosmos.unreddit/)
 
 
 ## Logiciels
 
-Firefox
+Firefox : [https://www.firefox.com/fr/](https://www.firefox.com/fr/)
 
-VLC
+VLC : [https://www.videolan.org](https://www.videolan.org/vlc/)
 
-OnlyOffice
+OnlyOffice : [https://www.onlyoffice.com](https://www.onlyoffice.com/fr/download-desktop)
 
-Thunderbird
+Thunderbird : [https://www.thunderbird.net](https://www.thunderbird.net/fr/)
 
-Gimp
+Gimp : [https://www.gimp.org](https://www.gimp.org/)
 
-Keepass XC
+KeepassXC : [https://keepassxc.org](https://keepassxc.org/)
 
-Mixxx
+Mixxx : [https://mixxx.org](https://mixxx.org/)
 
-Kdenlive
+Kdenlive : [https://kdenlive.org](https://kdenlive.org/fr/)
 
-Draw.io
+Draw.io : [https://www.drawio.com](https://www.drawio.com/)
 
-Joplin
+Joplin : [https://joplinapp.org](https://joplinapp.org/fr/)
 
-Scribouilli
+Scribouilli : [https://scribouilli.org](https://scribouilli.org/)
 
-## Extensions de Navigateur
+
+## Extensions de Navigateur (firefox)
+
+[https://addons.mozilla.org](https://addons.mozilla.org/fr/firefox/search/)
 
 Ublock Origins
 
@@ -112,30 +130,30 @@ Feedbro
 
 GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions" peuvent remplacer Windows ou MacOS (qui en est un dérivé). L'installation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système !
 
-Emmabuntus : https://emmabuntus.org/
+Emmabuntus : [https://emmabuntus.org](https://emmabuntus.org/)
 
-ZorinOS : https://zorin.com/os/download/
+ZorinOS : [https://zorin.com](https://zorin.com/os/download/)
 
-Ubuntun Cinnamon : https://ubuntucinnamon.org/download/
+Ubuntun Cinnamon : [https://ubuntucinnamon.org](https://ubuntucinnamon.org/download/)
 
-Linux Mint : https://www.linuxmint.com/
+Linux Mint : [https://www.linuxmint.com](https://www.linuxmint.com/)
 
-Distrowatch
+Distrowatch : [https://distrowatch.com](https://distrowatch.com/)
 
-Distrosea
+Distrosea : [https://distrosea.com](https://distrosea.com/fr/)
 
 ## Systèmes d'exploitation sur Android
 
 Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'android, pour beaucoup ils sont basés dessus et toutes les applications du playstore fonctionnent sans problème !
 
-/e/OS : https://doc.e.foundation/
+/e/OS : [https://doc.e.foundation](https://doc.e.foundation/)
 
-iOdé : https://iode.tech/iodeos/
+iOdé : [https://iode.tech](https://iode.tech/iodeos/)
 
-Graphène OS : https://grapheneos.org/
+Graphène OS : [https://grapheneos.org](https://grapheneos.org)
 
-Ubuntu Touch : https://www.ubuntu-touch.io/
+Ubuntu Touch : [https://www.ubuntu-touch.io](https://www.ubuntu-touch.io)
 
-Sailfich OS : https://sailfishos.org/
+Sailfich OS : [https://sailfishos.org](https://sailfishos.org/)
 
-OpenAndoidInstaller : https://openandroidinstaller.org/ 
+OpenAndoidInstaller : [https://openandroidinstaller.org](https://openandroidinstaller.org/) 
