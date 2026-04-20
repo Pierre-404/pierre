@@ -3,48 +3,42 @@ title: "S'inspirer"
 order: 1
 in_menu: true
 ---
-Timothée Parrique
+Beaucoup de gens ont étudiés ce qu'il se passe sur terre et pourquoi notre modèle de société n'est pas durable pour que les humains continuent à vivre en bonne santé dans un environnement favorable. Ils l'expliquent très bien, sur beaucoup de thématiques comme les pollutions, l'agriculture, la consommation, etc... Beaucoup font des conférence qu'on peut retrouver sur Youtube ou ont écrit des livres, tiennent des médias, ont des assos, etc..
 
-Bon Pote
+- ***Timothée PARRIQUE***
 
-Climax
+- ***Thomas WAGNER***
 
-GreenLetter Club
+- ***Jean-Marc Jancovici / The Shift Project / Carbon 4***
 
-Reporterre
+- ***Charlène DESCOLLONGE***
 
-VERT le média
+- ***Philippe BIHOUIX***
 
-Jean-Marc Jancovici
+- ***Philippe DESCOLAS***
 
-Charlène DESCOLLONGE
+- ***Olivier HAMANT***
 
-Philippe BIHOUIX
-`
-Philippe DESCOLAS
+- ***Baptiste MORIZOT***
 
-Olivier HAMANT
+- ***Marc-André SELOSSE***
 
-Baptiste MORIZOT
+- ***Francis HALLE***
 
-Marc-André SELOSSE
+- ***Arthur KELLER***
 
-Francis HALLE
+- ***Aurélien BARAU***
 
-Arthur KELLER
+- ***Serge ZAKA***
 
-Aurélien BARAU
+- ***Roland LEHOUCQ***
 
-Serge ZAKA
+- ***Pablo SERVIGNE***
 
-Roland LEHOUCQ
+- ***Low-tech lab***
 
-Pablo SERVIGNE
+- ***Low-tech journal***
 
-Low-tech lab
+- ***ADEME***
 
-Low-tech journal
-
-ADEME
-
-Negawatt 
+- ***Negawatt*** 
