@@ -5,38 +5,34 @@ in_menu: true
 ---
 Petite liste de médias indépendant qui traitent de sujets sociétaux & environnementaux !
 
-Les jours
+- ***Les jours***
 
-Médiapart
+- ***Médiapart***
 
-Basta Média
+- ***Basta Média***
 
-Splann
+- ***Splann***
 
-Blast
-
-Climax
-
-Reporterre
-
-Bon Pote
-
-Fracas
-
-Mutins de Pangé 
-
-Reflets
-
-Socialter
-
-Low-tech Journal
-
-La Maison écologique 
+- ***Blast***
 
 - ***Climax***
 
-- ***GreenLetter Club***
-
 - ***Reporterre***
+
+- ***Bon Pote***
+
+- ***Fracas***
+
+- ***Mutins de Pangé***
+
+- ***Reflets***
+
+- ***Socialter***
+
+- ***Low-tech Journal***
+
+- ***La Maison écologique***
+
+- ***GreenLetter Club***
 
 - ***VERT le média*** 
