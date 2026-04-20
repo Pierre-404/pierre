@@ -3,44 +3,48 @@ title: "Utiliser"
 order: 2
 in_menu: true
 ---
-Lowreka
+- ***Logiciels libres***
 
-Pretik 
+- ***Lowreka***
 
-Geev 
+- ***Pretik***
 
-Poppin 
+- ***Geev***
 
-To Good To Go 
+- ***Poppin***
 
-Longue Vie aux Objets 
+- ***Mytroc***
 
-Fresque de l'économie circulaire 
+- ***To Good To Go***
 
-AMAP 
+- ***Longue Vie aux Objets***
 
-Carte Conso
+- ***Fresque de l'économie circulaire***
 
-A Fond Gaston
+- ***AMAP***
 
-FairPhone
+- ***Carte Conso***
 
-1083
+- ***A Fond Gaston***
 
-Commown
+- ***FairPhone***
 
-La NEF
+- ***1083***
 
-Le Crédit Coopératif
+- ***Commown***
 
-Terra
+- ***La NEF***
 
-Emmaus connect
+- ***Le Crédit Coopératif***
 
-BackMarket
+- ***Terra***
 
-Vinted
+- ***Emmaus connect***
 
-Le Bon Coin
+- ***BackMarket***
 
-CycleUp 
+- ***Vinted***
+
+- ***Le Bon Coin***
+
+- ***CycleUp*** 
