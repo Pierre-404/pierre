@@ -3,22 +3,26 @@ title: "Logiciels libres"
 order: 4
 in_menu: true
 ---
-Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
-Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis, simples à pendre en main et par là où on peut commencer facilement :)
+*Les logiciels libres sont des alternatives aux logiciels "propriétaires" qui sont les plus répandus sur ordinateur, smartphone ou en ligne. Ils respectent votre vie privée et ne cherche pas à récolter des données sur votre comportement afin de vous vendre de la publicité ! En général ils sont développés par beaucoup de gens sur leur temps libre qui militent pour ces valeurs et non par des entreprises qui doivent faire du chiffre (c'est un résumé ^^)*
+
+*Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
+Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis je voulais parler d'alternatives simples à pendre en main et par là où on peut commencer facilement :)*
+
+*Vous verrez, presque tout existe ! N'hésitez pas à installer, juste pour tester par curiosité, quitte à ne pas commencer à l'utiliser tout de suite et y aller petit à petit !*
 
 ## Menu
--**Astuce**
--**Réseaux sociaux**
--**Messageries instantanées**
--**Applications pour Android**
--**Logiciels pour ordinateur**
--**Extensions pour Firefox**
--**Système d'exploitation pour ordinateur**
--**Système d'exploitation pour téléphone**
+- **Astuce**
+- **Réseaux sociaux**
+- **Messageries instantanées**
+- **Applications pour Android**
+- **Logiciels pour ordinateur**
+- **Extensions pour Firefox**
+- **Système d'exploitation pour ordinateur**
+- **Système d'exploitation pour téléphone**
 
 ## Astuces
 
-Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :
+*Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permis d'avancer, en voici une petite liste :*
 
 - ***Framasoft*** : [https://framasoft.org](https://framasoft.org/fr/)
 
@@ -50,8 +54,8 @@ Il y a déjà pas mal de sites/assos qui traitent de ce sujet et qui m'ont permi
 
 ## Réseaux sociaux
 
-Ces propositions sont des réseaux "décentralisés" c'est à dire qu'ils n'appartiennent pas à une grosse entreprise dont la politique peut être... contestable, mais à beaucoup de petites structures, souvent associatives, et ça fonctionne très bien !! :D
-Pas de publicité, pas d’algorithme, à nous de créer notre monde ! :) L'ambiance y est donc plutôt sympa ! C'est vrai qu'on y retrouve moins de monde, mais ce ne sera plus le cas quand on arrêtera de dire "je n'y vais pas parce qu'il n'y a personne", déjà j'y suis moi ! :P Et ça me ferait plaisir de vous y voir d'ailleurs, allez go ! :D
+*Ces propositions sont des réseaux "décentralisés" c'est à dire qu'ils n'appartiennent pas à une grosse entreprise dont la politique peut être... contestable, mais à beaucoup de petites structures, souvent associatives, et ça fonctionne très bien !! :D
+Pas de publicité, pas d’algorithme, à nous de créer notre monde ! :) L'ambiance y est donc plutôt sympa ! C'est vrai qu'on y retrouve moins de monde, mais ce ne sera plus le cas quand on arrêtera de dire "je n'y vais pas parce qu'il n'y a personne", déjà j'y suis moi ! :P Et ça me ferait plaisir de vous y voir d'ailleurs, allez go ! :D*
 
 
 - ***Mastodon*** : [https://mastodon.social](https://mastodon.social)
@@ -85,94 +89,136 @@ Pas de publicité, pas d’algorithme, à nous de créer notre monde ! :) L'ambi
 
 - ***Firefox*** : [https://www.firefox.com/fr/mobile/](https://www.firefox.com/fr/mobile/)
 
+> Pour avoir un navigateur qui respecte votre vie privée ! :)
+
 - ***F-droid*** : [https://f-droid.org/fr/](https://f-droid.org/fr/)
+
+> Magasin d'application Open-source uniquement pour ne plus avoir que le playstore !
 
 - ***NewPipe*** : [https://newpipe.net/](https://newpipe.net/)
 
+> C'est Youtube mais sans pub et qu'on peut lire en arrière plan, c'est aussi soundcloud et bandcamp ! Waow !!
+
 - ***Fossify*** : [https://www.fossify.org/](https://www.fossify.org/)
+
+> Suite d'applications libres pour les contacts, l'agenda, le gestionnaire de fichiers, galerie
 
 - ***MJ PDF***
 
+> Lecteur de PDF simple et sans pub
+
 - ***QUIK SMS***
+
+> Application jolie et pratique pour les SMS avec des fonctionnalités sympas ! :)
 
 - ***K-9 Mail*** : [https://k9mail.app/](https://k9mail.app/)
 
+> Application mail classique
+
 - ***FaireEmail*** : [https://email.faircode.eu/](https://email.faircode.eu/)
+
+> Application mail personnalisable pour plusieurs comptes mails
 
 OpenBoard
 
 - ***AntennaPod*** : [https://antennapod.org/fr/](https://antennapod.org/fr/)
 
+> Application pour retrouver des podcasts, avec possibilité de les télécharger pour les écouter hors ligne
+
 - ***Stealth*** : [https://f-droid.org/packages/com.cosmos.unreddit/](https://f-droid.org/packages/com.cosmos.unreddit/)
+
+> Pour celles et ceux qui vont régulièrement sur Reddit
+
+- ***Magic Earth*** : [https://www.magicearth.com](https://www.magicearth.com/)
+
+> Une application de GPS, comme Google Maps, bon sans les horaires d'ouvertures ou les photos par contre mais qui fait très bien GPS, on peut changer les fonds de carte très facilement aussi !
 
 
 ## Logiciels
 
-Firefox : [https://www.firefox.com/fr/](https://www.firefox.com/fr/)
+- ***Firefox*** : [https://www.firefox.com/fr/](https://www.firefox.com/fr/)
 
-VLC : [https://www.videolan.org](https://www.videolan.org/vlc/)
+- ***VLC*** : [https://www.videolan.org](https://www.videolan.org/vlc/)
 
-OnlyOffice : [https://www.onlyoffice.com](https://www.onlyoffice.com/fr/download-desktop)
+- ***OnlyOffice*** : [https://www.onlyoffice.com](https://www.onlyoffice.com/fr/download-desktop)
 
-Thunderbird : [https://www.thunderbird.net](https://www.thunderbird.net/fr/)
+- ***Thunderbird*** : [https://www.thunderbird.net](https://www.thunderbird.net/fr/)
 
-Gimp : [https://www.gimp.org](https://www.gimp.org/)
+- ***Gimp*** : [https://www.gimp.org](https://www.gimp.org/)
 
-KeepassXC : [https://keepassxc.org](https://keepassxc.org/)
+- ***KeepassXC*** : [https://keepassxc.org](https://keepassxc.org/)
 
-Mixxx : [https://mixxx.org](https://mixxx.org/)
+- ***Mixxx*** : [https://mixxx.org](https://mixxx.org/)
 
-Kdenlive : [https://kdenlive.org](https://kdenlive.org/fr/)
+- ***Kdenlive*** : [https://kdenlive.org](https://kdenlive.org/fr/)
 
-Draw.io : [https://www.drawio.com](https://www.drawio.com/)
+- ***Draw.io*** : [https://www.drawio.com](https://www.drawio.com/)
 
-Joplin : [https://joplinapp.org](https://joplinapp.org/fr/)
+- ***Joplin*** : [https://joplinapp.org](https://joplinapp.org/fr/)
 
-Scribouilli : [https://scribouilli.org](https://scribouilli.org/)
+- ***Scribouilli*** : [https://scribouilli.org](https://scribouilli.org/)
 
 
 ## Extensions de Navigateur (firefox)
 
-[https://addons.mozilla.org](https://addons.mozilla.org/fr/firefox/search/)
+Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans les paramètres ou sur [https://addons.mozilla.org](https://addons.mozilla.org/fr/firefox/search/)
 
-Ublock Origins
+- ***Ublock Origins***
+> Pour bloquer les publicités, si vous n'avez pas l'habitude, vous allez découvrir un autre internet !
 
-Privacy Badger
+- ***Privacy Badger***
 
-Noscript
+> Pour bloquer les cookies "malveillants"
 
-Feedbro
+- ***Feedbro***
+
+> Pour suivre les atualités de pages Facebook sans y être inscrit
 
 
 
 ## Systèmes d'exploitation Linux 
 
-GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions" peuvent remplacer Windows ou MacOS (qui en est un dérivé). L'installation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système !
+*GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions" peuvent remplacer Windows ou MacOS (qui en est un dérivé) sur un ordinateur. L'installation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système ! Voici une sélection qui sont rependues, faciles d'utilisation et très bien !*
 
-Emmabuntus : [https://emmabuntus.org](https://emmabuntus.org/)
+- ***Emmabuntus*** : [https://emmabuntus.org](https://emmabuntus.org/)
 
-ZorinOS : [https://zorin.com](https://zorin.com/os/download/)
+> Visuellement top et ergonomique, peut s'installer avec tout les logiciels nécessaires fonctionnels, clé en main ! Rapide, c'est idéal pour les vieux PC (encore mieux sur les récents !) et si vous ne voulez que des usages classique. En plus de ça, le projet associatif est top ! :)
 
-Ubuntun Cinnamon : [https://ubuntucinnamon.org](https://ubuntucinnamon.org/download/)
+- ***ZorinOS*** : [https://zorin.com](https://zorin.com/os/download/)
+> Si vous recherchez un beau bureau qui peut vous rappeler MacOS
 
-Linux Mint : [https://www.linuxmint.com](https://www.linuxmint.com/)
+- ***Ubuntun Cinnamon*** : [https://ubuntucinnamon.org](https://ubuntucinnamon.org/download/)
+> La base, Ubuntun c'est du solide ! Cette version à un bureau très ergonomique
 
-Distrowatch : [https://distrowatch.com](https://distrowatch.com/)
+- ***Linux Mint*** : [https://www.linuxmint.com](https://www.linuxmint.com/)
 
-Distrosea : [https://distrosea.com](https://distrosea.com/fr/)
+> LA version de Linux que l'on propose à ceux qui ne l'ont jamais utilisé, pratique et très agréable également !
+
+- ***Distrosea*** : [https://distrosea.com](https://distrosea.com/fr/)
+
+> Si vous souhaitez tester en ligne depuis votre ordinateur avant d'installer, vous trouverez beaucoup de versions de Linux ici, le concepte est super qu
+
+
+*Pour aller un peu plus loin*
+
+- ***Distrowatch*** : [https://distrowatch.com](https://distrowatch.com/)
+
+> Découvrez toutes les versions de linux qui existent répertoriées ici, c'est un peu le wikipédia du Linux
+
+
 
 ## Systèmes d'exploitation sur Android
 
-Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'android, pour beaucoup ils sont basés dessus et toutes les applications du playstore fonctionnent sans problème !
+*Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'android, pour beaucoup ils sont basés dessus et toutes les applications du playstore fonctionnent sans problème !*
 
-/e/OS : [https://doc.e.foundation](https://doc.e.foundation/)
+- ***/e/OS*** : [https://doc.e.foundation](https://doc.e.foundation/)
 
-iOdé : [https://iode.tech](https://iode.tech/iodeos/)
+- ***iOdé*** : [https://iode.tech](https://iode.tech/iodeos/)
 
-Graphène OS : [https://grapheneos.org](https://grapheneos.org)
+- ***Graphène OS*** : [https://grapheneos.org](https://grapheneos.org)
 
-Ubuntu Touch : [https://www.ubuntu-touch.io](https://www.ubuntu-touch.io)
+- ***Ubuntu Touch*** : [https://www.ubuntu-touch.io](https://www.ubuntu-touch.io)
 
-Sailfich OS : [https://sailfishos.org](https://sailfishos.org/)
+- ***Sailfich OS*** : [https://sailfishos.org](https://sailfishos.org/)
 
-OpenAndoidInstaller : [https://openandroidinstaller.org](https://openandroidinstaller.org/) 
+- ***OpenAndoidInstaller*** : [https://openandroidinstaller.org](https://openandroidinstaller.org/) 
