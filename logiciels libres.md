@@ -6,14 +6,14 @@ in_menu: true
 *Les logiciels libres sont des alternatives aux logiciels "propriétaires" (qui sont les plus répandus sur ordinateur, smartphone ou en ligne). Ils respectent votre vie privée et ne cherche pas à récolter des données sur votre comportement afin de vous vendre de la publicité ! En général ils sont développés par beaucoup de gens sur leur temps libre qui militent pour ces valeurs et non par des entreprises qui doivent faire du chiffre (c'est un résumé ^^)*
 
 *Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
-Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis je voulais parler d'alternatives simples à pendre en main et par là où on peut commencer facilement :)*
+Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis je voulais parler d'alternatives simples à pendre en main et par là où on peut commencer facilement sans trop entrer dans les détails :)*
 
 *Vous verrez, presque tout existe ! N'hésitez pas à installer, juste pour tester par curiosité, quitte à ne pas commencer à l'utiliser tout de suite et y aller petit à petit !*
 
 *Pour ma part, ce qui m'a lancé sur le sujet était [cette présentation d'Angie Gaudion](https://peertube.iriseden.eu/w/ifCEGbG321qbrL3kt6qaB4), qui commence un peu à dater mais toujours aussi pertinent !*
 
 ## Menu
-- **Astuce**
+- **Astuces**
 - **Réseaux sociaux**
 - **Messageries instantanées**
 - **Applications pour Android**
@@ -46,9 +46,9 @@ Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces
 
 > Collectif d'hébergeurs libres, français et éthiques, on y trouve tout un tas d'alternatives de services en ligne type, mail, drive, visio, facturation, édition de PDF, etc... A aller voir, [catalogue ici](https://www.chatons.org/search/by-service)
 
-- ***Seb Sauvage*** : [https://sebsauvage.net/wiki/](https://sebsauvage.net/wiki/doku.php?id=dnsfilter)
+- ***Seb Sauvage*** : [https://sebsauvage.net/wiki](https://sebsauvage.net/wiki)
 
-> Site web très complet et bien expliqué sur différentes thématique, ici le lien renvoi vers le blocage de pub sur son téléphone
+> Site web très complet sur les logiciels libres et quelques tips pour ceux qui veulent aller plus loin que cette page ! :)
 
 - ***Alternatives numériques*** : [https://alternatives-numeriques.fr/](https://alternatives-numeriques.fr/)
 
@@ -62,7 +62,7 @@ Pas de publicité, pas d’algorithme, à nous de créer notre monde ! :) L'ambi
 
 - ***Mastodon*** : [https://mastodon.social](https://mastodon.social)
 
-> Pour suivre vos amis, les actus, des assos, des artistes, etc., c'est le plus utilisé ! Sur le fonctionnement, c'est plus ou moins comme X (Twitter) ou Bluesky avec une limitation à 500 caractères. Au pire créez vous un compte directement [depuis l'App](https://joinmastodon.org/apps) et essayez d'y passer dessus une fois par semaine au début ! Mon nom d'utilisateur pour m'y retrouver, ainsi que ce que je partages : **@Pierre_lmd@hostux.social**
+> Pour suivre vos amis, les actus, des assos, des artistes, etc., c'est le plus utilisé ! Sur le fonctionnement, c'est plus ou moins comme X (Twitter) ou Bluesky avec une limitation à 500 caractères. Au pire créez vous un compte directement [depuis l'App](https://joinmastodon.org/apps) et essayez d'y passer dessus une fois par semaine au début ! Vous pouvez vous rendre sur [cette page](https://pierre-404.github.io/pierre/mastodon.html) pour trouver ma liste des comptes à suivre ! Mon nom d'utilisateur pour m'y retrouver, ainsi que ce que je partages : **@Pierre_lmd@hostux.social** 
 
 - ***Peertube*** : [https://peertube.fr/](https://peertube.fr/)
 
@@ -134,6 +134,10 @@ OpenBoard
 - ***Magic Earth*** : [https://www.magicearth.com](https://www.magicearth.com/)
 
 > Une application de GPS, comme Google Maps, bon sans les horaires d'ouvertures ou les photos par contre mais qui fait très bien GPS, on peut changer les fonds de carte très facilement aussi ! Il existe également "CoMaps".
+
+- ***PersonalDNSFilter*** : [https://f-droid.org/packages/dnsfilter.android/](https://f-droid.org/packages/dnsfilter.android/)
+
+> Bloque les publicité sur les applis de votre téléphone, un must have !! Pour qu'il soit encore plus efficace, [petit tuto](https://sebsauvage.net/wiki/doku.php?id=dnsfilter)
 
 
 ## Logiciels
