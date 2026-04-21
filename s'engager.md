@@ -7,26 +7,40 @@ in_menu: true
 
 A rejoindre ou a soutenir
 
-Framasoft
+### Liberté sur le web
 
-Mouvement Colibris
+- ***Framasoft***
 
-Team For The Planet
+- ***Les GUL***
 
-Zéro Déchet
+- ***Wikimédia***
 
-GreenPeace
+- ***L'April***
 
-La ligue des droits de l'Homme
+- ***La Quadrature du net***
 
-Exctinction Rebellion
+### Environnement
 
-Les soulèvements de la terre
+- ***Mouvement Colibris***
 
-Bloom
+- ***Team For The Planet***
 
-Oxfam
+- ***Zéro Déchet***
 
-Les GUL
+- ***GreenPeace***
 
-Wikimédia 
+- ***La ligue des droits de l'Homme***
+
+- ***Exctinction Rebellion***
+
+- ***Les soulèvements de la terre***
+
+- ***Bloom***
+
+- ***Oxfam***
+
+- ***Maisons paysannes***
+
+### Localement
+
+- ***La Transition dans l'Aube*** 
