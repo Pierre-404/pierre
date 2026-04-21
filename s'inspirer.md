@@ -3,6 +3,8 @@ title: "S'inspirer"
 order: 1
 in_menu: true
 ---
+## Environnement / écologie 
+
 *Beaucoup de gens ont étudiés ce qu'il se passe sur terre et pourquoi notre modèle de société n'est pas durable pour que les humains continuent à vivre en bonne santé dans un environnement favorable.*
 
 *Ils l'expliquent très bien, sur beaucoup de thématiques comme les pollutions, l'agriculture, le vivant la consommation, etc... 
@@ -57,4 +59,23 @@ The End - BD
 - ***ADEME***
 
 - ***Negawatt*** 
+
 > Sobriété, efficacité, renouvelable 
+
+## Logiciels libres
+
+- ***Framasoft/ Angie Gaudion*** 
+
+- ***Richard Stallman*** 
+
+- ***Edward Snowden*** 
+
+- ***Julien Assange*** 
+
+- ***April*** 
+
+- ***La Quadrature du Net***
+
+- ***Louis DERAC***
+
+- ***Stéphane CROZAT*** 
