@@ -3,7 +3,7 @@ title: "Logiciels libres"
 order: 4
 in_menu: true
 ---
-*Les logiciels libres sont des alternatives aux logiciels "propriétaires" qui sont les plus répandus sur ordinateur, smartphone ou en ligne. Ils respectent votre vie privée et ne cherche pas à récolter des données sur votre comportement afin de vous vendre de la publicité ! En général ils sont développés par beaucoup de gens sur leur temps libre qui militent pour ces valeurs et non par des entreprises qui doivent faire du chiffre (c'est un résumé ^^)*
+*Les logiciels libres sont des alternatives aux logiciels "propriétaires" (qui sont les plus répandus sur ordinateur, smartphone ou en ligne). Ils respectent votre vie privée et ne cherche pas à récolter des données sur votre comportement afin de vous vendre de la publicité ! En général ils sont développés par beaucoup de gens sur leur temps libre qui militent pour ces valeurs et non par des entreprises qui doivent faire du chiffre (c'est un résumé ^^)*
 
 *Pourquoi faire cette page alors qu'il existe beaucoup d'autres site qui en parle ?
 Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces ! Et puis je voulais parler d'alternatives simples à pendre en main et par là où on peut commencer facilement :)*
@@ -133,18 +133,18 @@ OpenBoard
 
 - ***Magic Earth*** : [https://www.magicearth.com](https://www.magicearth.com/)
 
-> Une application de GPS, comme Google Maps, bon sans les horaires d'ouvertures ou les photos par contre mais qui fait très bien GPS, on peut changer les fonds de carte très facilement aussi !
+> Une application de GPS, comme Google Maps, bon sans les horaires d'ouvertures ou les photos par contre mais qui fait très bien GPS, on peut changer les fonds de carte très facilement aussi ! Il existe également "CoMaps".
 
 
 ## Logiciels
 
 - ***Firefox*** : [https://www.firefox.com/fr/](https://www.firefox.com/fr/)
 
-> Navigateur Web
+> Navigateur Web incontournable très performant, rapide et plein de fonctionnalités, un des seuls navigateurs qui n'est pas basé sur "Chromium" (développé par Google), une autre alternative très sympa aussi (basée sur Chromium) : [Vivaldi](https://vivaldi.com/fr/) qui est également un très bon choix
 
 - ***VLC*** : [https://www.videolan.org](https://www.videolan.org/vlc/)
 
-> Lecteur vidéo
+> Lecteur vidéo puissant et dont la réputation n'est plus à faire, avec souvent plus de compatibilités de format vidéos que les lecteurs vidéos classiques.
 
 - ***OnlyOffice*** : [https://www.onlyoffice.com](https://www.onlyoffice.com/fr/download-desktop)
 
@@ -188,6 +188,7 @@ OpenBoard
 Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans les paramètres ou sur [https://addons.mozilla.org](https://addons.mozilla.org/fr/firefox/search/)
 
 - ***Ublock Origins***
+
 > Pour bloquer les publicités, si vous n'avez pas l'habitude, vous allez découvrir un autre internet !
 
 - ***Privacy Badger***
@@ -218,7 +219,7 @@ Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans 
 
 - ***Linux Mint*** : [https://www.linuxmint.com](https://www.linuxmint.com/)
 
-> LA version de Linux que l'on propose à ceux qui ne l'ont jamais utilisé, pratique et très agréable également !
+> LA version de Linux que l'on propose à ceux qui ne l'ont jamais utilisé, pratique, complète et très agréable également !
 
 - ***Distrosea*** : [https://distrosea.com](https://distrosea.com/fr/)
 
@@ -235,16 +236,29 @@ Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans 
 
 ## Systèmes d'exploitation sur Android
 
-*Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'android, pour beaucoup ils sont basés dessus et toutes les applications du playstore fonctionnent sans problème !*
+*Voici d'autres choses que l'on peut installer sur certains smartphones à la place d'Android (et donc sans services Google qui collectent une quantité phénoménale de vos données personnelles et comportementales), pour beaucoup ils sont basés dessus et toutes les applications du Playstore fonctionnent sans problème !*
 
 - ***/e/OS*** : [https://doc.e.foundation](https://doc.e.foundation/)
 
+> Un des plus répandus, beaucoup de téléphones compatibles, focalisé sur le respect de la vie privée, toutes les applications du Playstore fonctionnent, a un bloqueur de traceurs/pub intégré, on peut l'installer soi-même (je l'ai installé en 30 minutes sans connaissances il y a quelques années ^^) il existe un logiciel d'accompagnement à l'installation pour certains modèles de téléphone, on peut également acheter des téléphones où c'est déjà installé. Avec l'OS, il y a également tout un service similaire à Google avec Cloud, Agenda, contacts, etc.
+
 - ***iOdé*** : [https://iode.tech](https://iode.tech/iodeos/)
+
+> Un peu similaire au précédent sur le fonctionnement, bloqueur de pub et possibilité de l'installer soi-même, applications compatibles, très sympa mais moins de téléphones compatibles, on peut également acheter des téléphones avec l'OS installé
 
 - ***Graphène OS*** : [https://grapheneos.org](https://grapheneos.org)
 
+> Uniquement disponible sur les téléphones Google Pixel, basé sur la sécurisation du téléphone et des données, on peut acheter les téléphone avec l'OS installé
+
 - ***Ubuntu Touch*** : [https://www.ubuntu-touch.io](https://www.ubuntu-touch.io)
+
+> Un peu plus de niche et moins de compatibilité avec les applications, à installer sois-même
 
 - ***Sailfich OS*** : [https://sailfishos.org](https://sailfishos.org/)
 
-- ***OpenAndoidInstaller*** : [https://openandroidinstaller.org](https://openandroidinstaller.org/) 
+> Autre OS intéressant, on peut acheter les téléphones directement, les applications Android devraient fonctionner
+
+
+- ***OpenAndoidInstaller*** : [https://openandroidinstaller.org](https://openandroidinstaller.org/)
+
+> Logiciel qui vous permet d'installer plus facilement certains des OS listés ci-dessus 
