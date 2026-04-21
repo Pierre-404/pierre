@@ -3,22 +3,34 @@ title: "Eviter"
 order: 6
 in_menu: true
 ---
-Utiliser certains services/produits c'est aussi en éviter d'autres !
+*Utiliser certains services/produits c'est aussi en éviter d'autres !*
 
-L'objectif n'est pas :
-de ne plus du tout utiliser ces services/marques/produits (même si ce serait mieux !) 
-mais 
-de se diriger vers les alternatives (qui existent !) dès que l'on peut (accès, finances).
+**L'objectif n'est pas :**
+*de ne plus du tout utiliser ces services/marques/produits (même si ce serait mieux !)*
+**mais**
+*de se diriger vers les alternatives (qui existent !) dès que l'on peut (accès, finances).*
 
-Pourquoi ? Parce qu'elle n'ont pas un comportement éthique !
-quels sont les impacts problématiques ?
+*Pourquoi ? Parce qu'elle n'ont pas un comportement éthique !
+quels sont les impacts problématiques ? Consommer leurs produits et services revient à leur donner de l'argent pour les soutenir dans leur façon de faire, on dit souvent qu'on vote avec son argent !*
 
-Environnementaux (pollution, déforestation)
-Sociaux (exploitation des travailleurs/conditions de travail, orientations politiques)
+*Environnementaux (pollution, déforestation)
+Sociaux (exploitation des travailleurs/conditions de travail, orientations politiques)*
 
-Au-delà de ne pas choisir ces entreprises, on peut également se oser la question
+*Au-delà de ne pas choisir ces entreprises, on peut également se oser la question de la nécessité de consommer !*
 
-Services Web
+*Pour celà, il existe la méthode* ***BISOU***
+
+- **B**esoin
+
+- **I**mmédiateté
+
+- **S**imilaire
+
+- **O**rigine
+
+- **U**tilité
+
+## Services Web
 Facebook - Instagram - What'sApp
 Google
 Amazon
@@ -30,7 +42,7 @@ Tesla
 Disney
 Smartbox
 
-Médias
+## Médias
 CNEWS
 Europ1
 Valeurs Actuels
@@ -46,14 +58,13 @@ LAROUSSE
 Fayard
 Hachette
 Grasset
-Primark
 McDo
 Burger King
 Banques
 
 Total
 
-Aliments
+## Aliments
 Les grandes surfaces
 Coca-Cola
 Ferrero
@@ -65,13 +76,14 @@ Budweiser
 La pataterie
 Starbucks
 
-Vêtement
+## Vêtement
 Shein
 TEMU
 H&M
 Zara
 LVMH
+Primark
 Adidas
 
 Bernard Arnaud
-Pierre-édouard stérin 
+Pierre-édouard Stérin 
