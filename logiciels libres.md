@@ -10,6 +10,8 @@ Parce que c'est ma sélection ! Pour la plupart testés, approuvés et efficaces
 
 *Vous verrez, presque tout existe ! N'hésitez pas à installer, juste pour tester par curiosité, quitte à ne pas commencer à l'utiliser tout de suite et y aller petit à petit !*
 
+*Pour ma part, ce qui m'a lancé sur le sujet était [cette présentation d'Angie Gaudion](https://peertube.iriseden.eu/w/ifCEGbG321qbrL3kt6qaB4), qui commence un peu à dater mais toujours aussi pertinent !*
+
 ## Menu
 - **Astuce**
 - **Réseaux sociaux**
@@ -138,25 +140,47 @@ OpenBoard
 
 - ***Firefox*** : [https://www.firefox.com/fr/](https://www.firefox.com/fr/)
 
+> Navigateur Web
+
 - ***VLC*** : [https://www.videolan.org](https://www.videolan.org/vlc/)
+
+> Lecteur vidéo
 
 - ***OnlyOffice*** : [https://www.onlyoffice.com](https://www.onlyoffice.com/fr/download-desktop)
 
+> Alternative très sympa à la suite Microsoft Office (Excel, Word, Powerpoint) qui fonctionne très bien et est très ergonomique
+
 - ***Thunderbird*** : [https://www.thunderbird.net](https://www.thunderbird.net/fr/)
+
+> Messagerie, Agenda et contacts, alternative à Outlook très sympa visuellement et ergonomique
 
 - ***Gimp*** : [https://www.gimp.org](https://www.gimp.org/)
 
+> Logiciel de création d'images puissante, alternative à Photoshop (oui il faudra quand même se former à son utilisation), il en existe d'autres similaire aux autres logiciels de la suite ADOBE comme Krita ou Inkskape
+
 - ***KeepassXC*** : [https://keepassxc.org](https://keepassxc.org/)
+
+> Gestionnaire de mots de passe, sécurisé que l'on peut associer à son navigateur
 
 - ***Mixxx*** : [https://mixxx.org](https://mixxx.org/)
 
+> Logiciel puissant de gestion de musiques pour faire le DJ en soirée ! (Alternative à Virtual DJ)
+
 - ***Kdenlive*** : [https://kdenlive.org](https://kdenlive.org/fr/)
+
+> Logiciel puissant d'édition de vidéos, s'il est trop puissant pour vous, il en existe plein d'autres plus simples
 
 - ***Draw.io*** : [https://www.drawio.com](https://www.drawio.com/)
 
+> Logiciel pour réaliser des diagramme en ligne ou sur son ordinateur
+
 - ***Joplin*** : [https://joplinapp.org](https://joplinapp.org/fr/)
 
+> Logiciel de prises de notes type "One Note"
+
 - ***Scribouilli*** : [https://scribouilli.org](https://scribouilli.org/)
+
+> Service en ligne pour créer des sites webs simples, sans programmation ou besoin de nom de domaine, c'est avec ça que ce site a été réalisé ! :)
 
 
 ## Extensions de Navigateur (firefox)
@@ -168,27 +192,29 @@ Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans 
 
 - ***Privacy Badger***
 
-> Pour bloquer les cookies "malveillants"
+> Pour bloquer les cookies "malveillants" qui vont récolter vos données comportementales sur les sites webs
 
 - ***Feedbro***
 
-> Pour suivre les atualités de pages Facebook sans y être inscrit
+> Pour suivre les actualités de pages Facebook sans y être inscrit
 
 
 
 ## Systèmes d'exploitation Linux 
 
-*GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions" peuvent remplacer Windows ou MacOS (qui en est un dérivé) sur un ordinateur. L'installation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système ! Voici une sélection qui sont rependues, faciles d'utilisation et très bien !*
+*GNU/Linux pour les intimes, ces systèmes d'exploitation (qu'on appelle "distributions") peuvent remplacer Windows ou MacOS (qui en est un dérivé) sur un ordinateur. L'installation et l'utilisation est assez simple, et il en existe des centaines pour que chacun trouve chaussure à son pied qui pour simplifier se basent sur 2/3 système ! Voici une sélection qui sont rependues, faciles d'utilisation et très bien !*
 
 - ***Emmabuntus*** : [https://emmabuntus.org](https://emmabuntus.org/)
 
 > Visuellement top et ergonomique, peut s'installer avec tout les logiciels nécessaires fonctionnels, clé en main ! Rapide, c'est idéal pour les vieux PC (encore mieux sur les récents !) et si vous ne voulez que des usages classique. En plus de ça, le projet associatif est top ! :)
 
 - ***ZorinOS*** : [https://zorin.com](https://zorin.com/os/download/)
-> Si vous recherchez un beau bureau qui peut vous rappeler MacOS
+
+> Si vous recherchez un beau bureau qui peut vous rappeler MacOS avec un magasin d'applications bien complet, simples à installer
 
 - ***Ubuntun Cinnamon*** : [https://ubuntucinnamon.org](https://ubuntucinnamon.org/download/)
-> La base, Ubuntun c'est du solide ! Cette version à un bureau très ergonomique
+
+> La base, Ubuntun c'est du solide ! Cette version à un bureau très sympa également et ergonomique, aussi avec un magasin d'applications complet et simples à installer
 
 - ***Linux Mint*** : [https://www.linuxmint.com](https://www.linuxmint.com/)
 
@@ -196,7 +222,7 @@ Pour les installer, ouvrer firefox sur votre ordinateur ou mobile et allez dans 
 
 - ***Distrosea*** : [https://distrosea.com](https://distrosea.com/fr/)
 
-> Si vous souhaitez tester en ligne depuis votre ordinateur avant d'installer, vous trouverez beaucoup de versions de Linux ici, le concepte est super qu
+> **Si vous souhaitez tester** en ligne depuis votre ordinateur avant d'installer, vous trouverez beaucoup de versions de Linux ici, le concept est super ! Vous cliquez sur l’icône de la version de Linux que souhaitez et au bout de quelques minutes, vous pourrez tester toutes les fonctionnalités, voir la navigation, les menus, les options, etc.
 
 
 *Pour aller un peu plus loin*
