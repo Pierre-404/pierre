@@ -3,8 +3,6 @@ title: "Lectures"
 order: 7
 in_menu: true
 ---
-## Lectures
-
 ### Bandes dessinées
 
 - ***Petit traité d'écologie sauvage***
