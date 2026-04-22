@@ -17,40 +17,60 @@ En grande partie des scientifiques, vous retrouverez ici des gens experts de leu
 > Pas le moins connu, spécialiste de l'énergie et du climat, il milite pour la sortie des énergies fossiles et l'explique très bien ! Il intervient régulièrement sur l'actualité sur ces sujets. [Une de ses conférences](https://www.youtube.com/watch?v=0FXbt3yNyio) bien structurée. Pour en savoir plus [son site](https://jancovici.com/), très bien fait et riche en ressources !
 
 - ***Charlène DESCOLLONGE***
+
 > L'hydrologie régénérative
 
 - ***Philippe BIHOUIX***
+
 > Les Low-tech
 
 - ***Philippe DESCOLAS***
+
 > Antropologue
 
 - ***Olivier HAMANT***
+
 > La robustesse
 
 - ***Baptiste MORIZOT***
+
 > Le vivant
 
 - ***Marc-André SELOSSE***
+
 > Les sols
 
 - ***Francis HALLE***
+
 > Les arbres
 Pour aller plus loin, la [fondation à son nom](https://www.foretprimaire-francishalle.org/)
 The End - BD
+
 - ***Arthur KELLER***
+
 > La systémique
 
 - ***Aurélien BARAU***
 
 - ***Serge ZAKA***
+
 > L'agroclimatologie
 
 - ***Roland LEHOUCQ***
+
 > Les limites de la technologie
 
 - ***Pablo SERVIGNE***
+
 > La collapsologie
+
+- ***Aurore STEPHAN***
+
+> Utilisation des métaux
+
+- ***Salomé SAQUE***
+
+> Sujets de société
 
 - ***Low-tech lab***
 
