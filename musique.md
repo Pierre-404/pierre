@@ -3,9 +3,7 @@ title: "Musique"
 order: 9
 in_menu: true
 ---
-## Musique
-
-Cette catégorisation est plus que discutable, mais vous saisirez l'idée ^^
+*Cette catégorisation est plus que discutable, mais vous saisirez l'idée ^^*
 
 #### Rap
 
