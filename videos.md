@@ -3,13 +3,19 @@ title: "Vidéos"
 order: 8
 in_menu: true
 ---
-#### Streaming
+## Documentaires
+
+Internet ou la révolution du partage / La bataille du libre
+
+The Internet Own Boy
+
+## Streaming
 
 Arte
 
 Mutins de Pangé
 
-#### Sur Youtube
+## Sur Youtube
 
 Vu
 
@@ -25,7 +31,7 @@ Partager c'est Sympa
 
 Sciences étonnantes
 
-#### Films
+## Films
 
 12 Hommes en colère
 
@@ -83,10 +89,8 @@ Princesse Mononoké
 
 1984
 
-Internet ou la révolution du partage / La bataille du libre
+## Séries
 
-The Internet Own Boy
+Andor
 
-#### Séries
-
-Andor 
+Sens8 
